@@ -1,1 +1,6 @@
-Sistem Operasi praktikum 
+Sistem Operasi 
+PENJADWALAN PROSES
+Pengertian Penjadwalan Proses.
+Dalam sistem operasi,penjadwalan adalah kumpulan aturan dan mekanisme di sistem operasi untuk memutuskan proses mana yang akan dilaksanakan dalam sistem operasi tersebut.
+1)	Highest Ratio Next ( HRN )
+Merupakan salah satu metode proses penjadwalan yang dimana prioritas proses tidak hanya berdasarkan fungsi waktu layanan, tetapi juga jumlah waktu tunggu proses.Begitu proses mendapat jatah pemproses, proses berjalan sampai selesai.
